@@ -1,0 +1,12 @@
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\Treinamento.Globo.Programas.NET.exe.config
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\Treinamento.Globo.Programas.NET.exe
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\Treinamento.Globo.Programas.NET.pdb
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\Dominio.dll
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\Dominio.pdb
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\obj\Debug\Treinamento.Globo.Programas.NET.csprojResolveAssemblyReference.cache
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\obj\Debug\Treinamento.Globo.Programas.NET.exe
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\obj\Debug\Treinamento.Globo.Programas.NET.pdb
+C:\Users\ygorjohassonsilva\Documents\Visual Studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\EntityFramework.dll
+C:\Users\ygorjohassonsilva\Documents\Visual Studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ygorjohassonsilva\Documents\Visual Studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\EntityFramework.xml
+C:\Users\ygorjohassonsilva\Documents\Visual Studio 2015\Projects\Treinamento.Globo.Programas.NET\Treinamento.Globo.Programas.NET\bin\Debug\EntityFramework.SqlServer.xml

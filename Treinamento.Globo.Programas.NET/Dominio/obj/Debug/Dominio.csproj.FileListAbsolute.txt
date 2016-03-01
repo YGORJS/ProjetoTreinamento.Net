@@ -1,0 +1,5 @@
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Dominio\bin\Debug\Dominio.dll
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Dominio\bin\Debug\Dominio.pdb
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Dominio\obj\Debug\Dominio.dll
+c:\users\ygorjohassonsilva\documents\visual studio 2015\Projects\Treinamento.Globo.Programas.NET\Dominio\obj\Debug\Dominio.pdb
+C:\Users\ygorjohassonsilva\Documents\Visual Studio 2015\Projects\Treinamento.Globo.Programas.NET\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache

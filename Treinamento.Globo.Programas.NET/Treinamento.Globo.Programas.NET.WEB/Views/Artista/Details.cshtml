@@ -1,0 +1,106 @@
+﻿@model Dominio.Artista
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Artista</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Programa.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Programa.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Atividade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atividade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtNasc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtNasc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cpf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Endereco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Endereco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtIncl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtIncl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtAtlz)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtAtlz)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
